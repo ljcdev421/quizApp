@@ -1,0 +1,224 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Comment dit-on 'Bonjour' en anglais ?",
+            "options": [
+                "Goodbye",
+                "Hello",
+                "Thank you",
+                "Please"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": 2,
+            "question": "Quel est le passé simple du verbe 'to go' ?",
+            "options": [
+                "goed",
+                "went",
+                "gone",
+                "goed"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": 3,
+            "question": "Comment dit-on 'chat' en anglais ?",
+            "options": [
+                "dog",
+                "bird",
+                "cat",
+                "fish"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": 4,
+            "question": "Quelle est la traduction de 'I am hungry' ?",
+            "options": [
+                "J'ai soif",
+                "J'ai faim",
+                "J'ai froid",
+                "J'ai chaud"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": 5,
+            "question": "Comment dit-on 'merci' en anglais ?",
+            "options": [
+                "Please",
+                "Sorry",
+                "Thank you",
+                "Welcome"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": 6,
+            "question": "Quel jour vient après 'Monday' ?",
+            "options": [
+                "Sunday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": 7,
+            "question": "Comment dit-on le chiffre '5' en anglais ?",
+            "options": [
+                "four",
+                "five",
+                "six",
+                "seven"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": 8,
+            "question": "Quelle est la forme correcte : 'She ___ a teacher' ?",
+            "options": [
+                "am",
+                "is",
+                "are",
+                "be"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": 9,
+            "question": "Comment dit-on 'rouge' en anglais ?",
+            "options": [
+                "blue",
+                "red",
+                "green",
+                "yellow"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": 10,
+            "question": "Quel est le pluriel de 'child' ?",
+            "options": [
+                "childs",
+                "children",
+                "childes",
+                "child"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": 11,
+            "question": "Comment dit-on 'au revoir' en anglais ?",
+            "options": [
+                "Hello",
+                "Goodbye",
+                "See you",
+                "Farewell"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": 12,
+            "question": "Quelle est la traduction de 'book' ?",
+            "options": [
+                "cahier",
+                "livre",
+                "stylo",
+                "table"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": 13,
+            "question": "Comment dit-on 'manger' en anglais ?",
+            "options": [
+                "drink",
+                "sleep",
+                "eat",
+                "run"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": 14,
+            "question": "Quel mot signifie 'maison' ?",
+            "options": [
+                "car",
+                "tree",
+                "house",
+                "school"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": 15,
+            "question": "Comment dit-on 'grand' en anglais ?",
+            "options": [
+                "small",
+                "big",
+                "tall",
+                "short"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": 16,
+            "question": "Quelle est la forme négative de 'I like apples' ?",
+            "options": [
+                "I no like apples",
+                "I don't like apples",
+                "I not like apples",
+                "I doesn't like apples"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": 17,
+            "question": "Comment dit-on 'eau' en anglais ?",
+            "options": [
+                "milk",
+                "juice",
+                "water",
+                "coffee"
+            ],
+            "correctIndex": 2
+        },
+        {
+            "id": 18,
+            "question": "Quel mot signifie 'famille' ?",
+            "options": [
+                "friend",
+                "family",
+                "father",
+                "mother"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": 19,
+            "question": "Comment demande-t-on 'Comment t'appelles-tu ?' en anglais ?",
+            "options": [
+                "How are you?",
+                "What is your name?",
+                "Where are you?",
+                "How old are you?"
+            ],
+            "correctIndex": 1
+        },
+        {
+            "id": 20,
+            "question": "Quelle est la traduction de 'happy' ?",
+            "options": [
+                "triste",
+                "fatigué",
+                "heureux",
+                "en colère"
+            ],
+            "correctIndex": 2
+        }
+    ]
+}
