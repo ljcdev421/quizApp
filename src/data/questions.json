@@ -2,223 +2,223 @@
     "questions": [
         {
             "id": 1,
-            "question": "Comment dit-on 'Bonjour' en anglais ?",
+            "question": "Que veut dire 'to beget' en français ?",
             "options": [
-                "Goodbye",
-                "Hello",
-                "Thank you",
-                "Please"
+                "engendrer",
+                "obtenir",
+                "créer",
+                "commencer"
             ],
-            "correctIndex": 1
+            "correctIndex": 0
         },
         {
             "id": 2,
-            "question": "Quel est le passé simple du verbe 'to go' ?",
+            "question": "Quel est le participe passé de 'to abide' ?",
             "options": [
-                "goed",
-                "went",
-                "gone",
-                "goed"
+                "abided",
+                "abode",
+                "abided",
+                "abiding"
             ],
             "correctIndex": 1
         },
         {
             "id": 3,
-            "question": "Comment dit-on 'chat' en anglais ?",
+            "question": "Quel est le prétérit de 'to break' ?",
             "options": [
-                "dog",
-                "bird",
-                "cat",
-                "fish"
+                "broken",
+                "breaked",
+                "broke",
+                "break"
             ],
             "correctIndex": 2
         },
         {
             "id": 4,
-            "question": "Quelle est la traduction de 'I am hungry' ?",
+            "question": "Quel est le participe passé de 'to begin' ?",
             "options": [
-                "J'ai soif",
-                "J'ai faim",
-                "J'ai froid",
-                "J'ai chaud"
+                "began",
+                "begin",
+                "begined",
+                "begun"
+            ],
+            "correctIndex": 3
+        },
+        {
+            "id": 5,
+            "question": "Quel est le prétérit de 'to bring' ?",
+            "options": [
+                "bringed",
+                "brought",
+                "bring",
+                "brung"
             ],
             "correctIndex": 1
         },
         {
-            "id": 5,
-            "question": "Comment dit-on 'merci' en anglais ?",
+            "id": 6,
+            "question": "Que signifie'to bite' en français ?",
             "options": [
-                "Please",
-                "Sorry",
-                "Thank you",
-                "Welcome"
+                "casser",
+                "frapper",
+                "mordre",
+                "blesser"
             ],
             "correctIndex": 2
         },
         {
-            "id": 6,
-            "question": "Quel jour vient après 'Monday' ?",
-            "options": [
-                "Sunday",
-                "Tuesday",
-                "Wednesday",
-                "Thursday"
-            ],
-            "correctIndex": 1
-        },
-        {
             "id": 7,
-            "question": "Comment dit-on le chiffre '5' en anglais ?",
+            "question": "Quel est le prétérit de 'to become' ?",
             "options": [
-                "four",
-                "five",
-                "six",
-                "seven"
+                "become",
+                "became",
+                "becomed",
+                "becoming"
             ],
             "correctIndex": 1
         },
         {
             "id": 8,
-            "question": "Quelle est la forme correcte : 'She ___ a teacher' ?",
+            "question": "Quel est le participe passé de 'to blow' ?",
             "options": [
-                "am",
-                "is",
-                "are",
-                "be"
+                "blew",
+                "blowed",
+                "blown",
+                "blow"
             ],
-            "correctIndex": 1
+            "correctIndex": 2
         },
         {
             "id": 9,
-            "question": "Comment dit-on 'rouge' en anglais ?",
+            "question": "Quel est le prétérit de 'to buy' ?",
             "options": [
-                "blue",
-                "red",
-                "green",
-                "yellow"
+                "buyed",
+                "bought",
+                "buy",
+                "boughten"
             ],
             "correctIndex": 1
         },
         {
             "id": 10,
-            "question": "Quel est le pluriel de 'child' ?",
+            "question": "Que signifie 'to build' en français ?",
             "options": [
-                "childs",
-                "children",
-                "childes",
-                "child"
+                "accompagner",
+                "demeurer",
+                "construire",
+                "conduire"
             ],
-            "correctIndex": 1
+            "correctIndex": 2
         },
         {
             "id": 11,
-            "question": "Comment dit-on 'au revoir' en anglais ?",
+            "question": "Quel est le prétérit de 'to arise' ?",
             "options": [
-                "Hello",
-                "Goodbye",
-                "See you",
-                "Farewell"
+                "arised",
+                "arose",
+                "arosen",
+                "arise"
             ],
             "correctIndex": 1
         },
         {
             "id": 12,
-            "question": "Quelle est la traduction de 'book' ?",
+            "question": "Quel est le participe passé de 'to bear' ?",
             "options": [
-                "cahier",
-                "livre",
-                "stylo",
-                "table"
+                "beared",
+                "bore",
+                "borne/born",
+                "bearing"
             ],
-            "correctIndex": 1
+            "correctIndex": 2
         },
         {
             "id": 13,
-            "question": "Comment dit-on 'manger' en anglais ?",
+            "question": "Complète : Anna .... her junior sister yesterday ?",
             "options": [
-                "drink",
-                "sleep",
-                "eat",
-                "run"
+                "beated",
+                "beaten",
+                "beat",
+                "beating"
             ],
             "correctIndex": 2
         },
         {
             "id": 14,
-            "question": "Quel mot signifie 'maison' ?",
+            "question": "Que signifie 'to breed' en français ?",
             "options": [
-                "car",
-                "tree",
-                "house",
-                "school"
+                "élever",
+                "entrainer",
+                "blesser",
+                "courber"
             ],
-            "correctIndex": 2
+            "correctIndex": 0
         },
         {
             "id": 15,
-            "question": "Comment dit-on 'grand' en anglais ?",
+            "question": "Que veut dire 'to burst' en français ?",
             "options": [
-                "small",
-                "big",
-                "tall",
-                "short"
+                "brûler",
+                "éclater",
+                "souffler",
+                "diffuser"
             ],
             "correctIndex": 1
         },
         {
             "id": 16,
-            "question": "Quelle est la forme négative de 'I like apples' ?",
+            "question": "Quel est le participe passé de 'to awake' ?",
             "options": [
-                "I no like apples",
-                "I don't like apples",
-                "I not like apples",
-                "I doesn't like apples"
-            ],
-            "correctIndex": 1
-        },
-        {
-            "id": 17,
-            "question": "Comment dit-on 'eau' en anglais ?",
-            "options": [
-                "milk",
-                "juice",
-                "water",
-                "coffee"
+                "awaked",
+                "awoke",
+                "awoken",
+                "awaking"
             ],
             "correctIndex": 2
         },
         {
-            "id": 18,
-            "question": "Quel mot signifie 'famille' ?",
+            "id": 17,
+            "question": "Quel est le prétérit de 'to bend'?",
             "options": [
-                "friend",
-                "family",
-                "father",
-                "mother"
+                "bended",
+                "bent",
+                "bend",
+                "bending"
             ],
             "correctIndex": 1
         },
         {
-            "id": 19,
-            "question": "Comment demande-t-on 'Comment t'appelles-tu ?' en anglais ?",
+            "id": 18,
+            "question": "Quel est le participe passé de 'to burn' ?",
             "options": [
-                "How are you?",
-                "What is your name?",
-                "Where are you?",
-                "How old are you?"
+                "burned/burnt",
+                "burn",
+                "burning",
+                "burnen"
+            ],
+            "correctIndex": 0
+        },
+        {
+            "id": 19,
+            "question": "Quel est le prétérit de 'to broadcast' ?",
+            "options": [
+                "broadcasted",
+                "broadcast",
+                "broadcasted",
+                "broadcasting"
             ],
             "correctIndex": 1
         },
         {
             "id": 20,
-            "question": "Quelle est la traduction de 'happy' ?",
+            "question": "Que veut dire 'to bleed' en français ?",
             "options": [
-                "triste",
-                "fatigué",
-                "heureux",
-                "en colère"
+                "distribuer",
+                "creuser",
+                "habiller",
+                "saigner"
             ],
-            "correctIndex": 2
+            "correctIndex": 3
         }
     ]
 }
