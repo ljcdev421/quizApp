@@ -1,224 +1,124 @@
 {
-    "questions": [
-        {
-            "id": 1,
-            "question": "Que veut dire 'to beget' en français ?",
-            "options": [
-                "engendrer",
-                "obtenir",
-                "créer",
-                "commencer"
-            ],
-            "correctIndex": 0
-        },
-        {
-            "id": 2,
-            "question": "Quel est le participe passé de 'to abide' ?",
-            "options": [
-                "abided",
-                "abode",
-                "abided",
-                "abiding"
-            ],
-            "correctIndex": 1
-        },
-        {
-            "id": 3,
-            "question": "Quel est le prétérit de 'to break' ?",
-            "options": [
-                "broken",
-                "breaked",
-                "broke",
-                "break"
-            ],
-            "correctIndex": 2
-        },
-        {
-            "id": 4,
-            "question": "Quel est le participe passé de 'to begin' ?",
-            "options": [
-                "began",
-                "begin",
-                "begined",
-                "begun"
-            ],
-            "correctIndex": 3
-        },
-        {
-            "id": 5,
-            "question": "Quel est le prétérit de 'to bring' ?",
-            "options": [
-                "bringed",
-                "brought",
-                "bring",
-                "brung"
-            ],
-            "correctIndex": 1
-        },
-        {
-            "id": 6,
-            "question": "Que signifie'to bite' en français ?",
-            "options": [
-                "casser",
-                "frapper",
-                "mordre",
-                "blesser"
-            ],
-            "correctIndex": 2
-        },
-        {
-            "id": 7,
-            "question": "Quel est le prétérit de 'to become' ?",
-            "options": [
-                "become",
-                "became",
-                "becomed",
-                "becoming"
-            ],
-            "correctIndex": 1
-        },
-        {
-            "id": 8,
-            "question": "Quel est le participe passé de 'to blow' ?",
-            "options": [
-                "blew",
-                "blowed",
-                "blown",
-                "blow"
-            ],
-            "correctIndex": 2
-        },
-        {
-            "id": 9,
-            "question": "Quel est le prétérit de 'to buy' ?",
-            "options": [
-                "buyed",
-                "bought",
-                "buy",
-                "boughten"
-            ],
-            "correctIndex": 1
-        },
-        {
-            "id": 10,
-            "question": "Que signifie 'to build' en français ?",
-            "options": [
-                "accompagner",
-                "demeurer",
-                "construire",
-                "conduire"
-            ],
-            "correctIndex": 2
-        },
-        {
-            "id": 11,
-            "question": "Quel est le prétérit de 'to arise' ?",
-            "options": [
-                "arised",
-                "arose",
-                "arosen",
-                "arise"
-            ],
-            "correctIndex": 1
-        },
-        {
-            "id": 12,
-            "question": "Quel est le participe passé de 'to bear' ?",
-            "options": [
-                "beared",
-                "bore",
-                "borne/born",
-                "bearing"
-            ],
-            "correctIndex": 2
-        },
-        {
-            "id": 13,
-            "question": "Complète : Anna .... her junior sister yesterday ?",
-            "options": [
-                "beated",
-                "beaten",
-                "beat",
-                "beating"
-            ],
-            "correctIndex": 2
-        },
-        {
-            "id": 14,
-            "question": "Que signifie 'to breed' en français ?",
-            "options": [
-                "élever",
-                "entrainer",
-                "blesser",
-                "courber"
-            ],
-            "correctIndex": 0
-        },
-        {
-            "id": 15,
-            "question": "Que veut dire 'to burst' en français ?",
-            "options": [
-                "brûler",
-                "éclater",
-                "souffler",
-                "diffuser"
-            ],
-            "correctIndex": 1
-        },
-        {
-            "id": 16,
-            "question": "Quel est le participe passé de 'to awake' ?",
-            "options": [
-                "awaked",
-                "awoke",
-                "awoken",
-                "awaking"
-            ],
-            "correctIndex": 2
-        },
-        {
-            "id": 17,
-            "question": "Quel est le prétérit de 'to bend'?",
-            "options": [
-                "bended",
-                "bent",
-                "bend",
-                "bending"
-            ],
-            "correctIndex": 1
-        },
-        {
-            "id": 18,
-            "question": "Quel est le participe passé de 'to burn' ?",
-            "options": [
-                "burned/burnt",
-                "burn",
-                "burning",
-                "burnen"
-            ],
-            "correctIndex": 0
-        },
-        {
-            "id": 19,
-            "question": "Quel est le prétérit de 'to broadcast' ?",
-            "options": [
-                "broadcasted",
-                "broadcast",
-                "broadcasted",
-                "broadcasting"
-            ],
-            "correctIndex": 1
-        },
-        {
-            "id": 20,
-            "question": "Que veut dire 'to bleed' en français ?",
-            "options": [
-                "distribuer",
-                "creuser",
-                "habiller",
-                "saigner"
-            ],
-            "correctIndex": 3
-        }
-    ]
+  "questions": [
+    {
+      "id": 1,
+      "question": "Comment dit-on 'Bonjour, comment vas-tu ?' en anglais ?",
+      "options": ["Good morning, how are you?", "Hello, where are you?", "Hi, who are you?", "Good day, what are you?"],
+      "correctIndex": 0
+    },
+    {
+      "id": 2,
+      "question": "Comment appelle-t-on le 'réfrigérateur' en anglais ?",
+      "options": ["freezer", "fridge / refrigerator", "oven", "microwave"],
+      "correctIndex": 1
+    },
+    {
+      "id": 3,
+      "question": "Comment dit-on 'Je me réveille à 7 heures' ?",
+      "options": ["I wake up at 7 o'clock", "I sleep at 7 o'clock", "I get up to 7 hours", "I awake in 7 hours"],
+      "correctIndex": 0
+    },
+    {
+      "id": 4,
+      "question": "Comment appelle-t-on la 'télécommande' en anglais ?",
+      "options": ["remote phone", "remote control", "TV commander", "distance control"],
+      "correctIndex": 1
+    },
+    {
+      "id": 5,
+      "question": "Quelle expression signifie 'Ça fait longtemps' ?",
+      "options": ["It makes long time", "Long time no see", "Many time ago", "So much time"],
+      "correctIndex": 1
+    },
+    {
+      "id": 6,
+      "question": "Comment dit-on 'Je fais la vaisselle' ?",
+      "options": ["I make the dishes", "I do the dishes", "I wash the plates", "I clean the kitchen"],
+      "correctIndex": 1
+    },
+    {
+      "id": 7,
+      "question": "Comment appelle-t-on 'l'interrupteur' (pour la lumière) ?",
+      "options": ["light button", "electricity switch", "light switch", "power button"],
+      "correctIndex": 2
+    },
+    {
+      "id": 8,
+      "question": "Comment dit-on 'Je prends mon petit-déjeuner' ?",
+      "options": ["I take my breakfast", "I have breakfast", "I eat my morning", "I make breakfast"],
+      "correctIndex": 1
+    },
+    {
+      "id": 9,
+      "question": "Comment appelle-t-on un 'oreiller' en anglais ?",
+      "options": ["cushion", "pillow", "blanket", "mattress"],
+      "correctIndex": 1
+    },
+    {
+      "id": 10,
+      "question": "Comment dit-on 'Ravi de te rencontrer' de manière simple ?",
+      "options": ["Happy to know you", "Nice to meet you", "Good to see you", "Pleased for you"],
+      "correctIndex": 1
+    },
+    {
+      "id": 11,
+      "question": "Comment dit-on 'Je passe l'aspirateur' ?",
+      "options": ["I pass the vacuum", "I vacuum / I hoover", "I clean the floor machine", "I use the cleaner"],
+      "correctIndex": 1
+    },
+    {
+      "id": 12,
+      "question": "Comment appelle-t-on une 'couverture' (pour le lit) ?",
+      "options": ["cover", "blanket", "sheet", "pillow"],
+      "correctIndex": 1
+    },
+    {
+      "id": 13,
+      "question": "Comment dit-on 'Je suis en retard' de manière simple ?",
+      "options": ["I'm running late", "I have delay", "I'm in late", "I'm after time"],
+      "correctIndex": 0
+    },
+    {
+      "id": 14,
+      "question": "Comment appelle-t-on le 'robinet' en anglais ?",
+      "options": ["water tap / faucet", "water opener", "sink button", "water switch"],
+      "correctIndex": 0
+    },
+    {
+      "id": 15,
+      "question": "Comment dit-on 'Je fais le ménage' ?",
+      "options": ["I make the cleaning", "I do the housework / cleaning", "I work the house", "I clean the home"],
+      "correctIndex": 1
+    },
+    {
+      "id": 16,
+      "question": "Comment appelle-t-on une 'poubelle' en anglais ?",
+      "options": ["garbage box", "trash can / bin", "waste basket", "rubbish box"],
+      "correctIndex": 1
+    },
+    {
+      "id": 17,
+      "question": "Comment dit-on 'À plus tard' de manière informelle ?",
+      "options": ["To more late", "See you later", "Until later", "For later"],
+      "correctIndex": 1
+    },
+    {
+      "id": 18,
+      "question": "Comment appelle-t-on un 'tiroir' en anglais ?",
+      "options": ["drawer", "shelf", "cupboard", "cabinet"],
+      "correctIndex": 0
+    },
+    {
+      "id": 19,
+      "question": "Comment dit-on 'Je range ma chambre' ?",
+      "options": ["I arrange my room", "I tidy up my room", "I organize my bedroom", "I put my room"],
+      "correctIndex": 1
+    },
+    {
+      "id": 20,
+      "question": "Comment appelle-t-on un 'coussin' (pour le canapé) ?",
+      "options": ["pillow", "cushion", "sofa pillow", "sitting pad"],
+      "correctIndex": 1
+    }
+  ]
 }
